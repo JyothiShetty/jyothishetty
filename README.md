@@ -11,4 +11,4 @@
 - 💬 Ask me about HTML,CSS,Bootstrap,Python,C
 - 📫 How to reach me:[www.linkedin.com/in/jyothi-shetty-3158621b1/] [jyothibr42@gmail.com]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyothishetty)](https://github.com/anuraghazra/github-readme-stats)
