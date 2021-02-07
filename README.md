@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://dev.to/jyothishetty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jyothishetty" height="30" width="40" /></a>
 <a href="https://twitter.com/jyothi_br" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jyothi_br" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jyothi-shetty-3158621b1/de" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jyothi-shetty-3158621b1/de" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jyothi-shetty-3158621b1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jyothi-shetty-3158621b1/de" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jyothi.shetty.73594/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jyothishetty" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/jyothishetty__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/jyothishetty__/" height="30" width="40" /></a>
 </p>
