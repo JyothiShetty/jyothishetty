@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jyothi Shetty</h1>
+<h1 align="center">I'm Jyothi Shetty</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothishetty&label=Profile%20views&color=0e75b6&style=flat" alt="jyothishetty" /> </p>
 
 - 🌱 I’m currently learning **React,Django**
