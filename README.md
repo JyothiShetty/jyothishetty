@@ -24,6 +24,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothishetty&show_icons=true&locale=en&layout=compact" alt="jyothishetty" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyothishetty&show_icons=true&locale=en" alt="jyothishetty" /></p>
+<details>
+  <summary>:zap: <strong> GitHub Stats</strong></summary>
+
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jyothishetty&show_icons=true&hide_border=true" />
+
+</details>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyothishetty&" alt="jyothishetty" /></p>
