@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Jyothi Shetty</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothishetty&label=Profile%20views&color=0e75b6&style=flat" alt="jyothishetty" /> </p>
 
-- 🌱 I’m currently learning **React,Django**
+- 🌱 I’m currently learning **Angular and Spring**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Python,C**
+- 💬 Ask me about **Bootstrap,Python,C and Angular**
 
 - 📫 How to reach me **jyothibr42@gmail.com**
 
